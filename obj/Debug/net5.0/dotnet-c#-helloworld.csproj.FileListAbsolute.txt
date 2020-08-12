@@ -1,0 +1,13 @@
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld.deps.json
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld.runtimeconfig.json
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld.runtimeconfig.dev.json
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld.dll
+/home/daniel/PROJETOS/dotnet-c#-helloworld/bin/Debug/net5.0/dotnet-c#-helloworld.pdb
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.csprojAssemblyReference.cache
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.AssemblyInfoInputs.cache
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.AssemblyInfo.cs
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.csproj.CoreCompileInputs.cache
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.dll
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.pdb
+/home/daniel/PROJETOS/dotnet-c#-helloworld/obj/Debug/net5.0/dotnet-c#-helloworld.genruntimeconfig.cache
